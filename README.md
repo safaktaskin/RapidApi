@@ -2,7 +2,7 @@
 * Address:
 https://rapidapi.com/Veriphone/api/veriphone/
 
-
+Devam edilecek.
 
 
 
