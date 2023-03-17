@@ -1,0 +1,14 @@
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\entity\Verify.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\repository\VerifyRepository.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\repository\ExampleRepository.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\service\VerifyService.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\converter\VerifyConverter.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\SpringBootCrudExample2Application.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\dto\VerifyDto.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\entity\Example.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\controller\VerifyController.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\dto\ExampleDto.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\config\ModelMapperConfig.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\converter\ExampleConverter.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\impl\ServiceImpl.java
+C:\Users\Safak\Desktop\spring-boot-crud-example\src\main\java\com\javatechie\crud\example\Utils\VerifyUtils.java

@@ -1,0 +1,14 @@
+com\javatechie\crud\example\impl\ServiceImpl.class
+com\javatechie\crud\example\Utils\VerifyUtils.class
+com\javatechie\crud\example\repository\ExampleRepository.class
+com\javatechie\crud\example\SpringBootCrudExample2Application.class
+com\javatechie\crud\example\converter\ExampleConverter.class
+com\javatechie\crud\example\config\ModelMapperConfig.class
+com\javatechie\crud\example\dto\VerifyDto.class
+com\javatechie\crud\example\dto\ExampleDto.class
+com\javatechie\crud\example\controller\VerifyController.class
+com\javatechie\crud\example\repository\VerifyRepository.class
+com\javatechie\crud\example\converter\VerifyConverter.class
+com\javatechie\crud\example\entity\Verify.class
+com\javatechie\crud\example\service\VerifyService.class
+com\javatechie\crud\example\entity\Example.class
